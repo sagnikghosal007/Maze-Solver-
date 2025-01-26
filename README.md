@@ -12,6 +12,11 @@ Access and Check :
 - if "1" : blocker
 - if "0" : accessable
 - if "9" : destination reached
-  Time Complexity O(m*n)
-The screeen of the MAZE SOLVER will look like this :
+
+
+-Time Complexity O(m*n)
+
+
+-The screeen of the MAZE SOLVER will look like this :
+
 ![image](https://github.com/user-attachments/assets/f48870df-8050-4ee9-bf49-9288d1aeb253)
